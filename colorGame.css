@@ -35,6 +35,15 @@ button:hover {
   color: white;
 }
 
+p {
+  color: #fff;
+  text-align: center;
+}
+
+a {
+  color: steelblue;
+}
+
 
 #container {
   margin: 20px auto;
